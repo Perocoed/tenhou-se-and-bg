@@ -33,6 +33,6 @@ SE_Saki：M Miyanaga Saki，F Miyanaga Teru
 
 https://github.com/misonomika525/tenhou-se-and-bg
 
-## english part and other info taken from
+## English part and other info taken from
 
  https://github.com/vg-mjg/tenhou-se-and-bg
