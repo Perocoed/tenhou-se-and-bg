@@ -28,7 +28,7 @@ SE_Akagi：M Akagi Shigeru，F Iwao Washizu
 SE_Saki：M Miyanaga Saki，F Miyanaga Teru
 
 
-# List of the codes of the sound files :
+## List of the codes of the sound files :
 
 - json.se[ 1]=DORA
 - json.se[ 3]=CLOCK
@@ -59,10 +59,10 @@ SE_Saki：M Miyanaga Saki，F Miyanaga Teru
 
 Taken from https://tenhou.net/3/se_setting_sample.html
 
-## Original dev
+### Original dev
 
 https://github.com/misonomika525/tenhou-se-and-bg
 
-## English part and other info taken from
+### English part and other info taken from
 
  https://github.com/vg-mjg/tenhou-se-and-bg
