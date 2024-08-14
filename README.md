@@ -29,7 +29,7 @@ SE_Akagi：M Akagi Shigeru，F Iwao Washizu
 SE_Saki：M Miyanaga Saki，F Miyanaga Teru
 
 
-## List of the codes of the sound files :
+## List of the codes of the sound files for customization purposes :
 
 - json.se[ 1]=DORA
 - json.se[ 3]=CLOCK
