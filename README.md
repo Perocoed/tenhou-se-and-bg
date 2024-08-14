@@ -1,18 +1,16 @@
-# 天凤自用自定义SE
+# Tenhou voice replacements
 
-### 请注意：请先确认自己的网络状况能访问 githubusercontent.com 。
+### Installation
 
-## 使用方法（不需要按自己喜好自定义的情况下）
+1、 Open tenhou web client: https://tenhou.net/3/
 
-1、进入天凤登录界面：https://tenhou.net/3/
+2、Press the settings button (gears)
 
-2、登录后点击右上角按钮进入设置界面。
+3、Navigate to SE menu.
 
-3、翻页切换至SE设定界面。
+4、Uncheck the default setting.
 
-4、取消「標準のSE」勾选项，在下面的URL栏里填写：https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/[json文件名].json 
-
-5、调节音量并试听效果后退出回到登录界面。
+5、Paste this link ：https://raw.githubusercontent.com/
 
 
 ## 各组SE详细对应人物一览（预配置文件）
