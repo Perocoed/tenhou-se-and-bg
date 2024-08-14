@@ -13,19 +13,19 @@
 5、Paste this link ：https://raw.githubusercontent.com/
 
 
-## 各组SE详细对应人物一览（预配置文件）
+## List of detailed characters corresponding to each group of SE (pre-configuration files)
 
-SE_Maid：男——三上千织，女——九条璃雨
+SE_Maid：M Chiori Mikami，F Riu Kujou
 
-SE_DeepIn：男——蛇喰梦子，女——早乙女芽亚里
+SE_DeepIn：M Yumeko Jabami，F Mary Saotome
 
-SE_Blue：男——砂狼白子，女——小鸟游星野
+SE_Blue：M Sunaookami Shiroko，F Takanashi Hoshino
 
-SE_BlackWhite：男——八木唯，女——小鸟游雏田
+SE_BlackWhite：M Yui Yagi，F Hinata Takanashi
 
-SE_Akagi：男——赤木茂，女——鹫巢岩
+SE_Akagi：M Akagi Shigeru，F Iwao Washizu
 
-SE_Saki：男——宫永咲，女——宫永照
+SE_Saki：M Miyanaga Saki，F Miyanaga Teru
 
 
 ### 另提供一个SE_DIY.json，可自行进行配置。
@@ -40,3 +40,7 @@ SE_Saki：男——宫永咲，女——宫永照
 ## 附录：Web版/アプリ版 SE設定ファイルサンプル
 
 ### https://tenhou.net/3/se_setting_sample.html
+
+##Original dev
+
+https://github.com/misonomika525/tenhou-se-and-bg
