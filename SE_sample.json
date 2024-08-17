@@ -1,0 +1,43 @@
+##Delete any line starting with ## for a usable template
+{
+  "ver":1.0,
+  "se":{
+    "3":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/countdown5.mp3"},
+## 3 stand for timer. so link sound you wish to use for a timer here, same with other lines
+	"8":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/btn_appear.mp3"},
+## 8 is for a callable tile SE
+	"9":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/new_dora.mp3"},
+## 9 is the SE for flipping a new dora when someone kan
+  "11":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/hule_fan_out.mp3"},
+## 11 is yaku revealing SE during point calculation
+    "25":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/[male]/act_pon.mp3"},
+## 25 is player voice for pon starting with male followed by female
+    "26":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/[female]/act_pon.mp3"},
+## 26 pon(f)
+    "27":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/[male]/act_kan.mp3"},
+## 27 kan(m)
+    "28":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/[female]/act_kan.mp3"},
+## 28 kan(f)
+    "29":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/[male]/act_chi.mp3"},
+## 29 chi(m)
+    "30":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/[female]/act_chi.mp3"},
+## 30 chi(f)
+    "31":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/[male]/act_rich.mp3"},
+## 31 riichi(m)
+    "32":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/[female]/act_rich.mp3"},
+## 32 riichi(f)
+    "33":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/[male]/act_ron.mp3"},
+## 33 ron(m)
+    "34":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/[female]/act_ron.mp3"},
+## 34 ron(f)
+    "35":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/[male]/act_tumo.mp3"},
+## 35 tsumo(m)
+    "36":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/[female]/act_tumo.mp3"},
+## 36 tsumo(f)
+    "40":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/winlose.mp3"},
+## 40 round end SE
+    "41":{"url":"https://raw.githubusercontent.com/[username]/[repo_name]/[branch]/yakuman.mp3"}
+## 41 yakuman reading SE
+  }
+}
+##check out README.md for the numbers not included here.
