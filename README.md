@@ -58,6 +58,8 @@ SE_Saki：M Miyanaga Saki，F Miyanaga Teru
 - json.se[40]=START(defulat:DORA)
 - json.se[41]=YAKUMAN(default:DORA)
 
+check out SE_sample.json for an example on how to customize your own SE
+
 Taken from https://tenhou.net/3/se_setting_sample.html
 
 ### Original dev
