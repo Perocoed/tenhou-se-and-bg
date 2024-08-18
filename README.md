@@ -12,9 +12,9 @@
 
 5、Paste the this link: https://raw.githubusercontent.com/perocoed/tenhou-se-and-bg/master/ followed by name of the file
 
-Example: https://raw.githubusercontent.com/perocoed/tenhou-se-and-bg/master/SE_Saki.json to use saki preset voice.
+Example: https://raw.githubusercontent.com/perocoed/tenhou-se-and-bg/master/SE_Saki.json to use saki preset voice with MJS sound effects.
 
-## List of detailed characters corresponding to each group of SE (preset files)
+## List of detailed characters corresponding to each group of SE(voice and MJS SE)/CV(Only replacing voice lines)
 
 SE_Maid：M Chiori Mikami，F Riu Kujou
 
@@ -26,7 +26,9 @@ SE_BlackWhite：M Yui Yagi，F Hinata Takanashi
 
 SE_Akagi：M Akagi Shigeru，F Iwao Washizu
 
-SE_Saki：M Miyanaga Saki，F Miyanaga Teru
+SE_Saki：M Saki Miyanaga，F  Teru Miyanaga
+
+CV_Saki3 : M Ako Atarashi, F Toki Onjoji
 
 
 ## List of the codes of the sound files for customization purposes :
