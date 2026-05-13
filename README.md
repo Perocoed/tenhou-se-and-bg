@@ -10,7 +10,7 @@
 
 4、Uncheck the default setting.
 
-5、Paste the this link: https://raw.githubusercontent.com/perocoed/tenhou-se-and-bg/master/ followed by name of the file
+5、Paste this link: https://raw.githubusercontent.com/perocoed/tenhou-se-and-bg/master/ followed by name of the file
 
 Example: https://raw.githubusercontent.com/perocoed/tenhou-se-and-bg/master/SE_Saki.json to use saki preset voice with MJS sound effects.
 
